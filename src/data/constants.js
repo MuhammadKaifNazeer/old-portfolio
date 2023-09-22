@@ -13,7 +13,7 @@ export const Bio = {
   ],
   description:
     "In the vast landscape of technology, I proudly wear the badge of a self-taught Full Stack Developer. The path of a self-taught developer is an adventurous one, filled with countless trials and triumphs. I did not follow the traditional academic route but instead chose to forge my own path in the world of code. Armed with nothing more than a computer, an internet connection, and a burning desire to create, I delved into the depths of web development.",
-  github: "",
+  github: "https://github.com/MuhammadKaifNazeer",
   // resume:"",
   linkedin: "https://www.linkedin.com/in/muhammadkaifnazeer/",
   // twitter: "",
